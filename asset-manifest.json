@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/feschenko-nelya/DogAPI/static/css/main.3ae95fd9.css",
+    "main.js": "/feschenko-nelya/DogAPI/static/js/main.361288fe.js",
+    "static/js/787.fe1675bb.chunk.js": "/feschenko-nelya/DogAPI/static/js/787.fe1675bb.chunk.js",
+    "static/media/girl-and-pet.png": "/feschenko-nelya/DogAPI/static/media/girl-and-pet.28d31ee864933a604d8e.png",
+    "static/media/images-search.png": "/feschenko-nelya/DogAPI/static/media/images-search.84d2a57c6cccbe29c184.png",
+    "static/media/vote-table.png": "/feschenko-nelya/DogAPI/static/media/vote-table.e6f99ca0db4420b380aa.png",
+    "static/media/pet-breeds.png": "/feschenko-nelya/DogAPI/static/media/pet-breeds.4d2046e5b8fc1415e759.png",
+    "index.html": "/feschenko-nelya/DogAPI/index.html",
+    "static/media/btn-sort-asc.svg": "/feschenko-nelya/DogAPI/static/media/btn-sort-asc.4979ed89a4e14b9b7cbcd3fde387fcfc.svg",
+    "static/media/btn-sort-desc.svg": "/feschenko-nelya/DogAPI/static/media/btn-sort-desc.3482db9e2104aa99af6b0deddaf0ce3d.svg",
+    "static/media/favourite-small.svg": "/feschenko-nelya/DogAPI/static/media/favourite-small.24841d9c5881f9860c7cfeb444e7b73b.svg",
+    "static/media/favourite-transparance.svg": "/feschenko-nelya/DogAPI/static/media/favourite-transparance.857c34da9be0c8585e0ba25d5b07c248.svg",
+    "static/media/upload-image-none.svg": "/feschenko-nelya/DogAPI/static/media/upload-image-none.e558d49591d8e9be9a27db5aa4034a09.svg",
+    "static/media/dislike-yellow.svg": "/feschenko-nelya/DogAPI/static/media/dislike-yellow.c0b569aff7aa7e98ba74692e73efe85e.svg",
+    "static/media/like-green.svg": "/feschenko-nelya/DogAPI/static/media/like-green.46dd82e42e10fe2adbd0051df0904a7b.svg",
+    "static/media/search.svg": "/feschenko-nelya/DogAPI/static/media/search.4f5baea8c5ca523c5b9a2e5cea5ec193.svg",
+    "static/media/upload-err.svg": "/feschenko-nelya/DogAPI/static/media/upload-err.77d680b62ef7678640d5ea769b17094d.svg",
+    "static/media/arrow-left-white.svg": "/feschenko-nelya/DogAPI/static/media/arrow-left-white.d80ab75975f29fd5d92b.svg",
+    "static/media/upload-scs.svg": "/feschenko-nelya/DogAPI/static/media/upload-scs.4a94fc5d492627cc3742ba88d0c42c42.svg",
+    "static/media/dislike-white.svg": "/feschenko-nelya/DogAPI/static/media/dislike-white.57dfd1a58ee0d5ec39c963b2bd8614e3.svg",
+    "static/media/like-white.svg": "/feschenko-nelya/DogAPI/static/media/like-white.cd46571da4e65da3345c452ef3eb0501.svg",
+    "static/media/btn-filter-red.svg": "/feschenko-nelya/DogAPI/static/media/btn-filter-red.b71e26146d5c1eef6eed.svg",
+    "static/media/btn-filter-white.svg": "/feschenko-nelya/DogAPI/static/media/btn-filter-white.81f17b4e307e97a41a23.svg",
+    "static/media/arrow-left.svg": "/feschenko-nelya/DogAPI/static/media/arrow-left.26f81ef9251edc5161a6.svg",
+    "static/media/favourite-fill-red.svg": "/feschenko-nelya/DogAPI/static/media/favourite-fill-red.3ae09292dc3cee25c24886f334664a3d.svg",
+    "static/media/favourite-fill-white.svg": "/feschenko-nelya/DogAPI/static/media/favourite-fill-white.06c9c26de71f23510c95dfdac2ebd4d9.svg",
+    "main.3ae95fd9.css.map": "/feschenko-nelya/DogAPI/static/css/main.3ae95fd9.css.map",
+    "main.361288fe.js.map": "/feschenko-nelya/DogAPI/static/js/main.361288fe.js.map",
+    "787.fe1675bb.chunk.js.map": "/feschenko-nelya/DogAPI/static/js/787.fe1675bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ae95fd9.css",
+    "static/js/main.361288fe.js"
+  ]
+}
