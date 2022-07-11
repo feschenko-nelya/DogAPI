@@ -1,0 +1,14 @@
+.btn-back-container {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-back {
+    background-image: url('../.img/arrow-left.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-back:hover {
+    background-image: url('../.img/arrow-left-white.svg');
+}

@@ -1,0 +1,110 @@
+.breeds-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-right: 40px;
+}
+
+.breeds-btn {
+    background-color: #F8F8F7;
+    color: #8C8C8C;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.breeds-select {
+    height: 40px;
+    width: 230px;
+    padding: 10px 8px;
+}
+
+.breeds-select-limit {
+    width: 100px;
+}
+
+.breeds-btn-sort {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+
+.breeds-middle {
+    text-align: center;
+    height: 100%;
+    width: 680px;
+    box-sizing: border-box;
+}
+
+.breeds-h3 {
+    color:rgba(255, 134, 142);
+    font-size: 16px;
+    background-color: white;
+    border-radius: 5px;
+    width: 180px;
+    margin: 0;
+}
+
+.breed-bottom {
+    border: 2px solid #FBE0DC;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.breed-header {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.breed-h1 {
+    transform: translateY(-50%);
+    background-color: white;
+}
+
+.breed-info {
+    display: flex;
+    gap: 20px;
+    padding: 20px 20px;
+}
+
+.breed-info-elem {
+    width: 50%;
+}
+
+.selected-breed-img {
+    object-fit: cover;
+    width: 100%;
+}
+
+span.swiper-pagination-bullet {
+    background: #FBE0DC;
+    opacity: 1;
+}
+
+span.swiper-pagination-bullet-active {
+    opacity: 1;
+    background: #FF868E;
+}
+
+div.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    background-color: white;
+    bottom: 25px;
+    border-radius: 20px;
+    height: 30px; 
+    width: max-content;
+    margin: 0 0;
+    left: 50%;
+    transform: translateX(-50%) translateY(50%);
+    padding: 0 10px;
+    box-sizing: border-box;
+    /* box-sizing: content-box; */
+}
+
+.swiper-wrapper { 
+    padding-bottom: 20px;
+}

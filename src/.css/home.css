@@ -1,0 +1,104 @@
+.logo {
+    width: 100%;
+    margin-bottom: 80px;
+}
+
+h1 {
+    font-size: 44px;
+    line-height: 58px;
+    font-weight: 500;
+    color: #1d1d1d;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 29px;
+    font-weight: 400;
+    color: #8c8c8c;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 29px;
+    font-weight: 500;
+    color: #1d1d1d;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.home-container {
+    margin-left: 150px;
+    position: fixed;
+    top: 30px;  
+}
+
+.home-cards {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.home-card {
+    width: 140px;
+    text-align: center;
+}
+
+.home-a-img {
+    height: 200px;
+    width: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline-style: solid;
+    outline-width: 4px;
+    outline-offset: -4px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.home-a-img:hover {
+    outline-color: white;
+}
+
+.home-a-img:active {
+    outline-color: #FBE0DC;
+}
+
+.home-a {
+    text-decoration: none;
+    display: inline-block;
+    line-height: 40px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.a-voting {
+    background-color: #B4B7FF;
+    outline-color: rgb(225, 226, 255);
+}
+
+.a-breeds {
+    background-color: #97EAB9;
+    outline-color: rgba(213, 247, 227);
+}
+
+.a-gallery {
+    background-color: #FFD280;
+    outline-color: rgba(255, 237, 204);
+}
+
+.home-btn {
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    color: #FF868E;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 2px;
+    width: 140px;
+    height: 35px;
+    text-transform: uppercase;
+}
